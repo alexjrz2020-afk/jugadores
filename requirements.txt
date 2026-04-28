@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+numpy
+joblib
+Pillow
+deepface
+scikit-learn==1.6.1
