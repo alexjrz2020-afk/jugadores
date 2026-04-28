@@ -5,3 +5,4 @@ joblib
 Pillow
 deepface
 scikit-learn==1.6.1
+tf-keras
